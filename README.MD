@@ -1,5 +1,6 @@
 # assembly-virtual-machine
 ***english***
+
 Virtual machine and an assembly language for a compiler construction course.
 
 The aim of the project is to design a virtual processor and its assembly language, and then implement a virtual machine for the needs of the "Compiler Construction" subject. The machine should have:
@@ -15,6 +16,7 @@ The aim of the project is to design a virtual processor and its assembly languag
 It may have additional instructions and registers. The virtual machine should be able to interpret the memory area as both program code and data for the virtual processor.
 
 ***polish***
+
 Maszyna wirtualna i język asemblera dla potrzeb przedmiotu Konstrukcja kompilatorów.
 
 Celem pracy jest zaprojektowanie wirtualnego procesora  i jej języka asemblera, a następnie realizacja maszyny wirtualnej dla potrzeb przedmiotu Konstrukcja kompilatorów. Maszyna powinna mieć:
