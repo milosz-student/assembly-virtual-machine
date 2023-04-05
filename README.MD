@@ -28,5 +28,5 @@ Celem pracy jest zaprojektowanie wirtualnego procesora  i jej języka asemblera,
 * instrukcje skoków warunkowych i skoku bezwarunkowego
 * instrukcje wywołania podprogramu
 * instrukcję powrotu z podprogramu
-* 
+
 Może mieć dodatkowe rozkazy i rejestry. Maszyna wirtualna powinna móc interpretować obszar pamięci jako kod programu i dane dla wirtualnego procesora.
